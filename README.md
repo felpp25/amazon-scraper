@@ -132,3 +132,10 @@ Todos os erros são tratados: se algo falhar, mensagens aparecem no frontend e b
 
 Código comentado para entendimento da lógica no backend e frontend.
 
+Visão do Front consumindo
+<img width="1920" height="1080" alt="Captura de Tela (1)" src="https://github.com/user-attachments/assets/6368dddd-03da-4418-b525-4fdbe827681c" />
+
+Visão do JSON
+<img width="1920" height="1080" alt="Captura de Tela (2)" src="https://github.com/user-attachments/assets/2ae7458d-b900-49a1-901e-4a3826550045" />
+
+
